@@ -20,5 +20,11 @@
 #### Accuracy 
 - Tỉ số giữa những phân loại đúng / toàn bộ phân loại.
 - Acc cao -> tỉ lệ dự đoán đúng cao >< Acc thấp -> dự đoán sai nhiều 
-- Accuracy = (TP + TN) / (TP + TN + FP + FN)
 - Accuracy = $$\frac{(TP + TN)} {(TP + TN + FP + FN)}$$
+#### Precision 
+- Đo lường tỷ lệ True positve (TP) trong tổng thể được phân loại vào TP
+- Đo sự chính xác của dự đoán positive predictions
+- Pre cao có ý nghĩa rằng mô hình có thể phân loại tốt các positive >< Pre thấp -> dự đoán FP nhiều 
+- Precision = $$\frac{TP}{(TP+FP)}$$
+#### Recall 
+- 
