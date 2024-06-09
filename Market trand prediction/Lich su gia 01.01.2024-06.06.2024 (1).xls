@@ -1,0 +1,304 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Lich su gia</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+            <thead>
+                <tr class="owner-title-table">
+                    <td rowspan="2" class="owner_time">Ngày</td>
+                    <td colspan="2" class="owner_price-s">Giá (nghìn VNĐ)</td>
+                    <td rowspan="2" class="owner_change">Thay đổi</td>
+                    <td colspan="2" class="owner_gd">GD khớp lệnh</td>
+                    <td colspan="2" class="owner_gd">GD thỏa thuận</td>
+                    <td colspan="3" class="owner_price" style="border-right:none;">Giá (nghìn VNĐ)</td>
+                </tr>
+                <tr class="owner-contents-typetd">
+                    <td class="owner_priceClose">Đóng cửa</td>
+                    <td class="price-adjustment">Điều chỉnh</td>
+                    <td>Khối lượng</td>
+                    <td>Giá trị (tỷ VNĐ)</td>
+                    <td>Khối lượng</td>
+                    <td>Giá trị (tỷ VNĐ)</td>
+                    <td>Mở cửa</td>
+                    <td>Cao nhất</td>
+                    <td style="border-right:none;">Thấp nhất</td>
+                </tr>
+            </thead>
+            <tbody id="render-table-owner" class="render-table-owner">
+                            <tr class="oddOwner">
+                            <td class="owner_time">03/04/2024</td>
+                            <td class="owner_priceClose">1271.47</td>
+                            <td class="owner_priceClose">1,271.47</td>
+                            <td class="owner_change-td down">-15.57(-1.21 %)</td>
+                            <td class="owner_gd_td">995,889,194</td>
+                            <td class="owner_gd_td">25,240.56</td>
+                            <td class="owner_gd_td">79,863,760</td>
+                            <td class="owner_gd_td">2,116.2</td>
+                            <td class="owner_price_td">1,285.3</td>
+                            <td class="owner_price_td">1,288.99</td>
+                            <td class="owner_price_td">1,271.47</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">02/04/2024</td>
+                            <td class="owner_priceClose">1287.04</td>
+                            <td class="owner_priceClose">1,287.04</td>
+                            <td class="owner_change-td up">5.52(0.43 %)</td>
+                            <td class="owner_gd_td">1,031,022,100</td>
+                            <td class="owner_gd_td">25,531.37</td>
+                            <td class="owner_gd_td">54,516,561</td>
+                            <td class="owner_gd_td">1,953.65</td>
+                            <td class="owner_price_td">1,276.38</td>
+                            <td class="owner_price_td">1,287.04</td>
+                            <td class="owner_price_td">1,268.48</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">01/04/2024</td>
+                            <td class="owner_priceClose">1281.52</td>
+                            <td class="owner_priceClose">1,281.52</td>
+                            <td class="owner_change-td down">-2.57(-0.20 %)</td>
+                            <td class="owner_gd_td">899,388,445</td>
+                            <td class="owner_gd_td">21,563.56</td>
+                            <td class="owner_gd_td">62,026,535</td>
+                            <td class="owner_gd_td">1,524.39</td>
+                            <td class="owner_price_td">1,282.84</td>
+                            <td class="owner_price_td">1,286.8</td>
+                            <td class="owner_price_td">1,274.09</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">29/03/2024</td>
+                            <td class="owner_priceClose">1284.09</td>
+                            <td class="owner_priceClose">1,284.09</td>
+                            <td class="owner_change-td down">-6.09(-0.47 %)</td>
+                            <td class="owner_gd_td">796,634,597</td>
+                            <td class="owner_gd_td">19,864.3</td>
+                            <td class="owner_gd_td">118,165,503</td>
+                            <td class="owner_gd_td">2,848.13</td>
+                            <td class="owner_price_td">1,292.7</td>
+                            <td class="owner_price_td">1,292.75</td>
+                            <td class="owner_price_td">1,282.44</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">28/03/2024</td>
+                            <td class="owner_priceClose">1290.18</td>
+                            <td class="owner_priceClose">1,290.18</td>
+                            <td class="owner_change-td up">7.09(0.55 %)</td>
+                            <td class="owner_gd_td">888,387,914</td>
+                            <td class="owner_gd_td">22,839.5</td>
+                            <td class="owner_gd_td">115,916,673</td>
+                            <td class="owner_gd_td">2,886.09</td>
+                            <td class="owner_price_td">1,293.03</td>
+                            <td class="owner_price_td">1,293.9</td>
+                            <td class="owner_price_td">1,285.52</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">27/03/2024</td>
+                            <td class="owner_priceClose">1283.09</td>
+                            <td class="owner_priceClose">1,283.09</td>
+                            <td class="owner_change-td up">0.88(0.07 %)</td>
+                            <td class="owner_gd_td">803,249,597</td>
+                            <td class="owner_gd_td">19,503.72</td>
+                            <td class="owner_gd_td">114,458,865</td>
+                            <td class="owner_gd_td">4,455.52</td>
+                            <td class="owner_price_td">1,286.34</td>
+                            <td class="owner_price_td">1,286.72</td>
+                            <td class="owner_price_td">1,276.95</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">26/03/2024</td>
+                            <td class="owner_priceClose">1282.21</td>
+                            <td class="owner_priceClose">1,282.21</td>
+                            <td class="owner_change-td up">14.35(1.13 %)</td>
+                            <td class="owner_gd_td">858,410,797</td>
+                            <td class="owner_gd_td">19,991.87</td>
+                            <td class="owner_gd_td">77,989,658</td>
+                            <td class="owner_gd_td">1,803.38</td>
+                            <td class="owner_price_td">1,267.95</td>
+                            <td class="owner_price_td">1,282.5</td>
+                            <td class="owner_price_td">1,264.42</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">25/03/2024</td>
+                            <td class="owner_priceClose">1267.86</td>
+                            <td class="owner_priceClose">1,267.86</td>
+                            <td class="owner_change-td down">-13.94(-1.09 %)</td>
+                            <td class="owner_gd_td">1,165,944,799</td>
+                            <td class="owner_gd_td">27,231.64</td>
+                            <td class="owner_gd_td">76,091,634</td>
+                            <td class="owner_gd_td">2,001.59</td>
+                            <td class="owner_price_td">1,278.86</td>
+                            <td class="owner_price_td">1,286.84</td>
+                            <td class="owner_price_td">1,264.51</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">22/03/2024</td>
+                            <td class="owner_priceClose">1281.8</td>
+                            <td class="owner_priceClose">1,281.8</td>
+                            <td class="owner_change-td up">5.38(0.42 %)</td>
+                            <td class="owner_gd_td">1,180,760,297</td>
+                            <td class="owner_gd_td">29,263.89</td>
+                            <td class="owner_gd_td">196,916,593</td>
+                            <td class="owner_gd_td">5,470.25</td>
+                            <td class="owner_price_td">1,281.56</td>
+                            <td class="owner_price_td">1,291.27</td>
+                            <td class="owner_price_td">1,276.38</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">21/03/2024</td>
+                            <td class="owner_priceClose">1276.42</td>
+                            <td class="owner_priceClose">1,276.42</td>
+                            <td class="owner_change-td up">16.34(1.30 %)</td>
+                            <td class="owner_gd_td">1,135,242,297</td>
+                            <td class="owner_gd_td">27,565.73</td>
+                            <td class="owner_gd_td">112,532,603</td>
+                            <td class="owner_gd_td">1,937.86</td>
+                            <td class="owner_price_td">1,269.96</td>
+                            <td class="owner_price_td">1,276.42</td>
+                            <td class="owner_price_td">1,264.2</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">20/03/2024</td>
+                            <td class="owner_priceClose">1260.08</td>
+                            <td class="owner_priceClose">1,260.08</td>
+                            <td class="owner_change-td up">17.62(1.42 %)</td>
+                            <td class="owner_gd_td">859,094,599</td>
+                            <td class="owner_gd_td">21,206.77</td>
+                            <td class="owner_gd_td">54,307,937</td>
+                            <td class="owner_gd_td">1,725.1</td>
+                            <td class="owner_price_td">1,243.79</td>
+                            <td class="owner_price_td">1,261.55</td>
+                            <td class="owner_price_td">1,235.46</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">19/03/2024</td>
+                            <td class="owner_priceClose">1242.46</td>
+                            <td class="owner_priceClose">1,242.46</td>
+                            <td class="owner_change-td down">-1.1(-0.09 %)</td>
+                            <td class="owner_gd_td">782,529,595</td>
+                            <td class="owner_gd_td">19,110.2</td>
+                            <td class="owner_gd_td">131,148,990</td>
+                            <td class="owner_gd_td">2,516.67</td>
+                            <td class="owner_price_td">1,246.54</td>
+                            <td class="owner_price_td">1,249.75</td>
+                            <td class="owner_price_td">1,238.92</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">18/03/2024</td>
+                            <td class="owner_priceClose">1243.56</td>
+                            <td class="owner_priceClose">1,243.56</td>
+                            <td class="owner_change-td down">-20.22(-1.60 %)</td>
+                            <td class="owner_gd_td">1,616,423,591</td>
+                            <td class="owner_gd_td">40,276.11</td>
+                            <td class="owner_gd_td">89,673,851</td>
+                            <td class="owner_gd_td">2,801.58</td>
+                            <td class="owner_price_td">1,266.11</td>
+                            <td class="owner_price_td">1,269.9</td>
+                            <td class="owner_price_td">1,221.67</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">15/03/2024</td>
+                            <td class="owner_priceClose">1263.78</td>
+                            <td class="owner_priceClose">1,263.78</td>
+                            <td class="owner_change-td down">-0.48(-0.04 %)</td>
+                            <td class="owner_gd_td">1,008,834,596</td>
+                            <td class="owner_gd_td">26,040.33</td>
+                            <td class="owner_gd_td">48,429,845</td>
+                            <td class="owner_gd_td">1,336.93</td>
+                            <td class="owner_price_td">1,263.76</td>
+                            <td class="owner_price_td">1,271.63</td>
+                            <td class="owner_price_td">1,252.36</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">14/03/2024</td>
+                            <td class="owner_priceClose">1264.26</td>
+                            <td class="owner_priceClose">1,264.26</td>
+                            <td class="owner_change-td down">-6.25(-0.49 %)</td>
+                            <td class="owner_gd_td">1,021,280,996</td>
+                            <td class="owner_gd_td">26,790.83</td>
+                            <td class="owner_gd_td">34,804,824</td>
+                            <td class="owner_gd_td">1,138.23</td>
+                            <td class="owner_price_td">1,276</td>
+                            <td class="owner_price_td">1,276.41</td>
+                            <td class="owner_price_td">1,258.67</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">13/03/2024</td>
+                            <td class="owner_priceClose">1270.51</td>
+                            <td class="owner_priceClose">1,270.51</td>
+                            <td class="owner_change-td up">25.51(2.05 %)</td>
+                            <td class="owner_gd_td">890,291,796</td>
+                            <td class="owner_gd_td">23,581.97</td>
+                            <td class="owner_gd_td">0</td>
+                            <td class="owner_gd_td">0</td>
+                            <td class="owner_price_td">1,250.2</td>
+                            <td class="owner_price_td">1,270.51</td>
+                            <td class="owner_price_td">1,247.64</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">12/03/2024</td>
+                            <td class="owner_priceClose">1245</td>
+                            <td class="owner_priceClose">1,245</td>
+                            <td class="owner_change-td up">9.51(0.77 %)</td>
+                            <td class="owner_gd_td">792,213,293</td>
+                            <td class="owner_gd_td">19,801.98</td>
+                            <td class="owner_gd_td">42,756,568</td>
+                            <td class="owner_gd_td">924.74</td>
+                            <td class="owner_price_td">1,235.4</td>
+                            <td class="owner_price_td">1,248.33</td>
+                            <td class="owner_price_td">1,233.14</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">11/03/2024</td>
+                            <td class="owner_priceClose">1235.49</td>
+                            <td class="owner_priceClose">1,235.49</td>
+                            <td class="owner_change-td down">-11.86(-0.95 %)</td>
+                            <td class="owner_gd_td">922,753,297</td>
+                            <td class="owner_gd_td">22,546.87</td>
+                            <td class="owner_gd_td">51,144,457</td>
+                            <td class="owner_gd_td">1,225.79</td>
+                            <td class="owner_price_td">1,248.32</td>
+                            <td class="owner_price_td">1,254.01</td>
+                            <td class="owner_price_td">1,233.49</td>
+                        </tr>
+                    
+                            <tr class="oddOwner">
+                            <td class="owner_time">08/03/2024</td>
+                            <td class="owner_priceClose">1247.35</td>
+                            <td class="owner_priceClose">1,247.35</td>
+                            <td class="owner_change-td down">-21.11(-1.66 %)</td>
+                            <td class="owner_gd_td">1,308,498,300</td>
+                            <td class="owner_gd_td">31,520.42</td>
+                            <td class="owner_gd_td">36,783,174</td>
+                            <td class="owner_gd_td">946.62</td>
+                            <td class="owner_price_td">1,272.62</td>
+                            <td class="owner_price_td">1,274.3</td>
+                            <td class="owner_price_td">1,247.35</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">07/03/2024</td>
+                            <td class="owner_priceClose">1268.46</td>
+                            <td class="owner_priceClose">1,268.46</td>
+                            <td class="owner_change-td up">5.73(0.45 %)</td>
+                            <td class="owner_gd_td">948,313,679</td>
+                            <td class="owner_gd_td">23,538.34</td>
+                            <td class="owner_gd_td">65,153,646</td>
+                            <td class="owner_gd_td">1,464.15</td>
+                            <td class="owner_price_td">1,263.23</td>
+                            <td class="owner_price_td">1,269.88</td>
+                            <td class="owner_price_td">1,260.24</td>
+                        </tr>
+                    </tbody>
+        </table></body></html>

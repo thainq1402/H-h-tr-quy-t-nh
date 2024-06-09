@@ -1,0 +1,52 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Lich su gia</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+            <thead>
+                <tr class="owner-title-table">
+                    <td rowspan="2" class="owner_time">Ngày</td>
+                    <td colspan="2" class="owner_price-s">Giá (nghìn VNĐ)</td>
+                    <td rowspan="2" class="owner_change">Thay đổi</td>
+                    <td colspan="2" class="owner_gd">GD khớp lệnh</td>
+                    <td colspan="2" class="owner_gd">GD thỏa thuận</td>
+                    <td colspan="3" class="owner_price" style="border-right:none;">Giá (nghìn VNĐ)</td>
+                </tr>
+                <tr class="owner-contents-typetd">
+                    <td class="owner_priceClose">Đóng cửa</td>
+                    <td class="price-adjustment">Điều chỉnh</td>
+                    <td>Khối lượng</td>
+                    <td>Giá trị (tỷ VNĐ)</td>
+                    <td>Khối lượng</td>
+                    <td>Giá trị (tỷ VNĐ)</td>
+                    <td>Mở cửa</td>
+                    <td>Cao nhất</td>
+                    <td style="border-right:none;">Thấp nhất</td>
+                </tr>
+            </thead>
+            <tbody id="render-table-owner" class="render-table-owner">
+                            <tr class="oddOwner">
+                            <td class="owner_time">03/01/2024</td>
+                            <td class="owner_priceClose">1144.17</td>
+                            <td class="owner_priceClose">1,144.17</td>
+                            <td class="owner_change-td up">12.45(1.10 %)</td>
+                            <td class="owner_gd_td">657,568,096</td>
+                            <td class="owner_gd_td">13,104.71</td>
+                            <td class="owner_gd_td">58,637,762</td>
+                            <td class="owner_gd_td">1,532.64</td>
+                            <td class="owner_price_td">1,130.53</td>
+                            <td class="owner_price_td">1,144.17</td>
+                            <td class="owner_price_td">1,128.32</td>
+                        </tr>
+                    
+                            <tr class="evenOwner">
+                            <td class="owner_time">02/01/2024</td>
+                            <td class="owner_priceClose">1131.72</td>
+                            <td class="owner_priceClose">1,131.72</td>
+                            <td class="owner_change-td up">1.79(0.16 %)</td>
+                            <td class="owner_gd_td">778,092,693</td>
+                            <td class="owner_gd_td">15,859.89</td>
+                            <td class="owner_gd_td">64,012,774</td>
+                            <td class="owner_gd_td">1,235.34</td>
+                            <td class="owner_price_td">1,136.39</td>
+                            <td class="owner_price_td">1,139.71</td>
+                            <td class="owner_price_td">1,128.69</td>
+                        </tr>
+                    </tbody>
+        </table></body></html>
