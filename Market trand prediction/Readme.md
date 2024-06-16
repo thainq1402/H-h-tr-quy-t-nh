@@ -21,13 +21,21 @@
     + Phân rã chuỗi thời gian: Trend, Seasonality, Noise...
     + ACF, PACF
 
+### Dự báo ngắn hạn với dữ liệu từ tuần cuối tháng 4 
+- AR:  
+- MA: có tính mùa 
+- ARIMA: 
+- Holt-winter: có tính mùa 
+- LSTM: 
+### Dài hạn dự báo với dữ liệu từ đầu năm
+- ARIMA:
+- Holt-winter:
+- LSTM:
+- ARCH:
+- GARCH:
+- SARIMA:
+- XGBOOST:
+- Prophet:
+- Link các mô hình khác: https://github.com/ml-tooling/best-of-ml-python?tab=readme-ov-file#time-series-data
 
-### 1. 1 Chuỗi 
-#### 1.1 1 Biến 
-- Input data: 
-    + Chỉ số VNIndex
-- Mô hình 
-    + ARIMA -> Base model 
-    + Exponential Smoothing (ETS) -> handle trend and seasonality 
-    + Prophet -> seasonality and holiday
-    + 
+
