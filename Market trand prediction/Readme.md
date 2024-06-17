@@ -37,5 +37,7 @@
 - XGBOOST:
 - Prophet:
 - Link các mô hình khác: https://github.com/ml-tooling/best-of-ml-python?tab=readme-ov-file#time-series-data
+### Chuỗi thời gian đa biến 
+- VARIMA:
 
 
