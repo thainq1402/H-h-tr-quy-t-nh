@@ -22,7 +22,7 @@
     + ACF, PACF
 
 ### Dự báo ngắn hạn với dữ liệu từ tuần cuối tháng 4 
-- AR:  
+- AR: 
 - MA: có tính mùa 
 - ARIMA: 
 - Holt-winter: có tính mùa 
